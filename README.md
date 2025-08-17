@@ -1,3 +1,5 @@
+[![CI](https://github.com/ngkenzy/packet-to-lakehouse-telemetry/actions/workflows/ci.yml/badge.svg)](https://github.com/ngkenzy/packet-to-lakehouse-telemetry/actions)
+
 # Packet-to-Lakehouse Telemetry
 
 **Story:** Convert captured packets into analytics-ready columnar data, then run fast SQL to find top talkers, RTT, and retransmissions.
